@@ -535,7 +535,8 @@ pie title Technical Skills Distribution
 
 ### **⭐ If you find this project useful, please give it a star on GitHub!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/face-mask-detection?style=social&logo=github)](https://github.com/yourusername/face-mask-detection)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social&logo=github)](https://github.com/Dibyendu17122003/Face-mask-detection-VGG16-ML)
+
 
 **Thank you for exploring FaceGuard! 🎭**
 
