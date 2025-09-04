@@ -11,33 +11,74 @@
 
 </div>
 
-# 🚀 AI-Powered Document Processing System
-
 ## 📋 Table of Contents
+```mermaid
+flowchart TD
+    %% Styling definitions
+    classDef problem fill:#ff9999,stroke:#333,stroke-width:2px
+    classDef solution fill:#99ccff,stroke:#333,stroke-width:2px
+    classDef system fill:#99ff99,stroke:#333,stroke-width:2px
+    classDef technical fill:#ffcc99,stroke:#333,stroke-width:2px
+    classDef workflow fill:#cc99ff,stroke:#333,stroke-width:2px
+    classDef implementation fill:#ff99cc,stroke:#333,stroke-width:2px
+    classDef performance fill:#99ffcc,stroke:#333,stroke-width:2px
+    classDef resource fill:#ffcc66,stroke:#333,stroke-width:2px
+    classDef application fill:#66ccff,stroke:#333,stroke-width:2px
+    classDef analysis fill:#cccc99,stroke:#333,stroke-width:2px
+    classDef future fill:#ccff99,stroke:#333,stroke-width:2px
+    classDef enhancement fill:#ff9966,stroke:#333,stroke-width:2px
+    classDef about fill:#cc99cc,stroke:#333,stroke-width:2px
+    classDef contribution fill:#99cccc,stroke:#333,stroke-width:2px
+    classDef connect fill:#cc9999,stroke:#333,stroke-width:2px
 
-<details open>
-<summary>✨ Quick Navigation</summary>
+    %% Problem Statement Section
+    P[🎯 Problem Statement]:::problem
+    
+    %% Solution Architecture Section
+    P --> SA[💡 Solution Architecture]:::solution
+    SA --> SO[🔧 System Overview]:::system
+    
+    %% Technical Specifications
+    SO --> TS[⚙️ Technical Specifications]:::technical
+    TS --> WA[🏗️ Workflow Architecture]:::workflow
+    WA --> DWS[🔍 Detailed Workflow Stages]:::workflow
+    
+    %% Implementation Details
+    DWS --> ID[🛠️ Implementation Details]:::implementation
+    ID --> MP[📊 Model Performance]:::performance
+    MP --> RU[📈 Resource Utilization]:::resource
+    
+    %% Application Section
+    RU --> APP[🌐 Application]:::application
+    APP --> UCA[📋 Use Case Analysis]:::analysis
+    
+    %% Future Enhancements
+    UCA --> FE[🚀 Future Enhancements]:::future
+    FE --> ED[🔮 Enhancement Details]:::enhancement
+    
+    %% About the Developer
+    ED --> AD[👨‍💻 About the Developer]:::about
+    AD --> PC[🤝 Project Contribution]:::contribution
+    PC --> CW[📞 Connect With Me]:::connect
+    
+    %% Adding some additional connections for better flow
+    TS -.-> ID
+    WA -.-> MP
+    DWS -.-> RU
+    APP -.-> FE
 
-- [🎯 Problem Statement](#-problem-statement)
-- [💡 Solution Architecture](#-solution-architecture)
-- [🔧 System Overview](#-system-overview)
-- [⚙️ Technical Specifications](#-technical-specifications)
-- [🏗️ Workflow Architecture](#-workflow-architecture)
-- [🔍 Detailed Workflow Stages](#-detailed-workflow-stages)
-- [🛠️ Implementation Details](#-implementation-details)
-- [📊 Model Performance](#-model-performance)
-- [📈 Resource Utilization](#-resource-utilization)
-- [🌐 Application](#-application)
-- [📋 Use Case Analysis](#-use-case-analysis)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [🔮 Enhancement Details](#-enhancement-details)
-- [👨‍💻 About the Developer](#-about-the-developer)
-- [🤝 Project Contribution](#-project-contribution)
-- [📞 Connect With Me](#-connect-with-me)
-
-</details>
-
----
+    %% Adding some parallel processes
+    subgraph Parallel Processes
+        MP2[Model Training]:::performance
+        RU2[Resource Monitoring]:::resource
+        QA[Quality Assurance]:::analysis
+    end
+    
+    ID --> MP2
+    MP2 --> RU2
+    RU2 --> QA
+    QA --> APP
+```
 
 ## 🎯 Problem Statement
 
