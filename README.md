@@ -254,8 +254,9 @@ FaceMaskDetection/
 ├── dataset/                    # Training dataset
 │   ├── with_mask/             # Images with masks (383 samples)
 │   └── without_mask/          # Images without masks (384 samples)
-├── face_detector/             # Haar cascade files
-│   └── haarcascade_frontalface_default.xml
+├── face_detector/             # Downloaded file for face detection
+│   └── res10_300x300_ssd_iter_140000.caffemodel
+│   └── deploy.prototxt
 ├── train_mask_detector.ipynb  # Model training notebook
 ├── detect_mask.ipynb          # Detection notebook
 ├── mask_detector_vgg16.h5     # Trained model (Git LFS)
