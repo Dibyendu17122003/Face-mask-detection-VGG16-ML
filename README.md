@@ -522,11 +522,9 @@ pie title Technical Skills Distribution
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&style=flat-square)](https://yourportfolio.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dibyendu-karmahapatra-17d2004/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square)]([https://github.com/yourusername](https://github.com/Dibyendu17122003?tab=repositories))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square)](dibyendukarmahapatra@gmail.com)
 </div>
 
 </div>
@@ -543,79 +541,3 @@ pie title Technical Skills Distribution
 
 </div>
 
-<style>
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-h1, h2, h3, h4 {
-  color: #2c3e50;
-  margin-top: 1.5em;
-}
-
-h1 {
-  border-bottom: 3px solid #667eea;
-  padding-bottom: 10px;
-}
-
-h2 {
-  border-left: 5px solid #764ba2;
-  padding-left: 15px;
-  margin-top: 2em;
-}
-
-code {
-  background-color: #f8f9fa;
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-family: 'Fira Code', monospace;
-}
-
-pre {
-  background-color: #2d2d2d;
-  color: #f8f8f2;
-  padding: 15px;
-  border-radius: 8px;
-  overflow-x: auto;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 20px 0;
-  box-shadow: 0 2px 3px rgba(0,0,0,0.1);
-}
-
-th, td {
-  padding: 12px 15px;
-  text-align: left;
-  border-bottom: 1px solid #e1e1e1;
-}
-
-th {
-  background-color: #667eea;
-  color: white;
-}
-
-tr:hover {
-  background-color: #f5f5f5;
-}
-
-details {
-  margin: 20px 0;
-  background: #f8f9fa;
-  padding: 15px;
-  border-radius: 8px;
-}
-
-summary {
-  cursor: pointer;
-  font-weight: bold;
-  color: #2c3e50;
-}
-</style>
