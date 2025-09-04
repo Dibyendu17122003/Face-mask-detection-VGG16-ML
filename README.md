@@ -6,6 +6,8 @@
 ![Keras](https://img.shields.io/badge/Keras-2.4%2B-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4%2B-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![VGG15](https://img.shields.io/badge/VGG15-DeepLearning-FF6F61?logo=keras&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-Architecture-FF9A00?logo=deeplearning&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
