@@ -474,7 +474,7 @@ graph TB
 | :--- | :--- | :--- | :--- |
 | **Real-time Video Processing** | ✅ Implemented | Medium | High |
 | **Webcam Integration** | ✅ Implemented | Low | High |
-| **Multiple Face Detection** | ⚠️ Partial | High | Medium |
+| **Multiple Face Detection** | ✅ Implemented | High | Medium |
 | **Mask Type Classification** | 🚧 Planned | High | Medium |
 | **Edge Device Optimization** | 🚧 Planned | High | High |
 | **Cloud Dashboard** | 📋 Research | Very High | Medium |
@@ -484,22 +484,19 @@ graph TB
 
 ## 👨‍💻 About the Developer
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; color: white;">
+**Dibyendu Karmahapatra** - Machine Learning Engineer & AI Enthusiast
 
-**Name**: Your Name  
-**Role**: AI/Computer Vision Engineer  
-**Expertise**: Deep Learning, Computer Vision, Python Development  
-**Experience**: 3+ years in ML projects and deployment  
-**Education**: Bachelor's in Computer Science with AI specialization  
+### Technical Expertise
 
-**Skills**:
-- Deep Learning Frameworks: TensorFlow, Keras, PyTorch
-- Computer Vision: OpenCV, Image Processing
-- Programming: Python, C++, JavaScript
-- Deployment: Streamlit, Flask, Docker
-- Cloud: AWS, Google Cloud Platform
-
-</div>
+```mermaid
+pie title Technical Skills Distribution
+    "Machine Learning" : 30
+    "Deep Learning" : 20
+    "Natural Language Processing" : 10
+    "Data Visualization" : 10
+    "Web Development" : 20
+    "Cloud Deployment" : 10
+```
 
 ## 🛠 Project Contribution
 
