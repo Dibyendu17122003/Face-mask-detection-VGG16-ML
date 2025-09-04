@@ -15,21 +15,21 @@
 ```mermaid
 flowchart TD
     %% Styling definitions
-    classDef problem fill:#ff9999,stroke:#333,stroke-width:2px
-    classDef solution fill:#99ccff,stroke:#333,stroke-width:2px
-    classDef system fill:#99ff99,stroke:#333,stroke-width:2px
-    classDef technical fill:#ffcc99,stroke:#333,stroke-width:2px
-    classDef workflow fill:#cc99ff,stroke:#333,stroke-width:2px
-    classDef implementation fill:#ff99cc,stroke:#333,stroke-width:2px
-    classDef performance fill:#99ffcc,stroke:#333,stroke-width:2px
-    classDef resource fill:#ffcc66,stroke:#333,stroke-width:2px
-    classDef application fill:#66ccff,stroke:#333,stroke-width:2px
-    classDef analysis fill:#cccc99,stroke:#333,stroke-width:2px
-    classDef future fill:#ccff99,stroke:#333,stroke-width:2px
-    classDef enhancement fill:#ff9966,stroke:#333,stroke-width:2px
-    classDef about fill:#cc99cc,stroke:#333,stroke-width:2px
-    classDef contribution fill:#99cccc,stroke:#333,stroke-width:2px
-    classDef connect fill:#cc9999,stroke:#333,stroke-width:2px
+    classDef problem fill:#e74c3c,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef solution fill:#3498db,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef system fill:#2ecc71,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef technical fill:#e67e22,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef workflow fill:#9b59b6,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef implementation fill:#e84393,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef performance fill:#1abc9c,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef resource fill:#f39c12,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef application fill:#2980b9,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef analysis fill:#d35400,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef future fill:#27ae60,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef enhancement fill:#e67e22,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef about fill:#8e44ad,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef contribution fill:#16a085,stroke:#2c3e50,stroke-width:2px,color:#ffffff
+    classDef connect fill:#c0392b,stroke:#2c3e50,stroke-width:2px,color:#ffffff
 
     %% Problem Statement Section
     P[🎯 Problem Statement]:::problem
@@ -61,13 +61,13 @@ flowchart TD
     AD --> PC[🤝 Project Contribution]:::contribution
     PC --> CW[📞 Connect With Me]:::connect
     
-    %% Adding some additional connections for better flow
+    %% Additional connections
     TS -.-> ID
     WA -.-> MP
     DWS -.-> RU
     APP -.-> FE
 
-    %% Adding some parallel processes
+    %% Parallel Processes
     subgraph Parallel Processes
         MP2[Model Training]:::performance
         RU2[Resource Monitoring]:::resource
@@ -78,6 +78,7 @@ flowchart TD
     MP2 --> RU2
     RU2 --> QA
     QA --> APP
+
 ```
 
 ## 🎯 Problem Statement
