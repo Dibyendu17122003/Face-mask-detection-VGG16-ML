@@ -11,29 +11,33 @@
 
 </div>
 
+# 🚀 AI-Powered Document Processing System
+
 ## 📋 Table of Contents
 
-<details>
-<summary>Click to expand</summary>
+<details open>
+<summary>✨ Quick Navigation</summary>
 
-1. [Problem Statement](#-problem-statement)
-2. [Proposed Solution](#-proposed-solution)
-3. [System Overview](#-system-overview)
-4. [Technical Specifications](#-technical-specifications)
-5. [Workflow Architecture](#-workflow-architecture)
-6. [Detailed Workflow Stages](#-detailed-workflow-stages)
-7. [Implementation Details](#-implementation-details)
-8. [Model Performance](#-model-performance)
-9. [Resource Utilization](#-resource-utilization)
-10. [Application](#-application)
-11. [Use Case Analysis](#-use-case-analysis)
-12. [Future Enhancements](#-future-enhancements)
-13. [Enhancement Details](#-enhancement-details)
-14. [About the Developer](#-about-the-developer)
-15. [Project Contribution](#-project-contribution)
-16. [Connect With Me](#-connect-with-me)
+- [🎯 Problem Statement](#-problem-statement)
+- [💡 Solution Architecture](#-solution-architecture)
+- [🔧 System Overview](#-system-overview)
+- [⚙️ Technical Specifications](#-technical-specifications)
+- [🏗️ Workflow Architecture](#-workflow-architecture)
+- [🔍 Detailed Workflow Stages](#-detailed-workflow-stages)
+- [🛠️ Implementation Details](#-implementation-details)
+- [📊 Model Performance](#-model-performance)
+- [📈 Resource Utilization](#-resource-utilization)
+- [🌐 Application](#-application)
+- [📋 Use Case Analysis](#-use-case-analysis)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [🔮 Enhancement Details](#-enhancement-details)
+- [👨‍💻 About the Developer](#-about-the-developer)
+- [🤝 Project Contribution](#-project-contribution)
+- [📞 Connect With Me](#-connect-with-me)
 
 </details>
+
+---
 
 ## 🎯 Problem Statement
 
